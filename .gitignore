@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+
+data/raw/*.csv
+data/raw/*.json
+data/processed/*.csv
+data/processed/*.db
+output/*.xlsx
+output/*.md
